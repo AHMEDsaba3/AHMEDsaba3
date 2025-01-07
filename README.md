@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AHMEDsaba3
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m graduated from faculty of Computer Science
 - 💞️ I’m looking to collaborate on facebook or google
 - 📫 How to reach me >>ahmedsabaa65@gmail.com<<
 - All Social media platforms >> linktr.ee/AhmedSaba3 <<
