@@ -11,6 +11,9 @@
   <a href="https://www.facebook.com/people/Ahmed-Sabaa/pfbid02ic4yhxX2bjqJGsoCXPthqtQsMvgosKFWJgkBopu91i9cJSWURdRNPvwuJbJvPUwol/?mibextid=LQQJ4d">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+    <a href="https://www.instagram.com/accounts/login/?next=%2FAHMED_SABA3%2F&source=omni_redirect">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 - 👋 Hi, I’m @AHMEDsaba3
 - 👀 I’m interested in programming
