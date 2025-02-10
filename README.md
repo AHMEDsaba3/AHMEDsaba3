@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://x.com/i/flow/login?redirect_after_login=%2FAhmedSabaa8">
-    <img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
   <a href="https://www.facebook.com/people/Ahmed-Sabaa/pfbid02ic4yhxX2bjqJGsoCXPthqtQsMvgosKFWJgkBopu91i9cJSWURdRNPvwuJbJvPUwol/?mibextid=LQQJ4d">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -17,12 +17,13 @@
       <a href="https://www.threads.net/@ahmed_saba3">
     <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Badge"/>
   </a>
+            <a href="ahmedsabaa65@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
         <a href="https://linktr.ee/AhmedSaba3?utm_source=linktree_profile_share&ltsid=83060f06-b95d-4c43-9a20-32ffebb7f55c">
     <img src="https://img.shields.io/badge/Linktr-green?style=for-the-badge&logo=linktr&logoColor=white" alt="Linktr Badge"/>
   </a>
-          <a href="ahmedsabaa65@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+
 </div>
 - 👋 Hi, I’m @AHMEDsaba3
 - 👀 I’m interested in programming
