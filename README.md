@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/{}-blue?style=for-the-badge&logo=X&logoColor=black" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/''-blue?style=for-the-badge&logo=X&logoColor=black" alt="X Badge"/>
   </a>
 </div>
 - 👋 Hi, I’m @AHMEDsaba3
