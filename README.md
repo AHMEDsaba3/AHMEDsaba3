@@ -22,7 +22,9 @@
         <a href="https://linktr.ee/AhmedSaba3?utm_source=linktree_profile_share&ltsid=83060f06-b95d-4c43-9a20-32ffebb7f55c">
     <img src="https://img.shields.io/badge/Linktr-green?style=for-the-badge&logo=linktr&logoColor=white" alt="Linktr Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=AHMEDsaba3&style=flat-square&color=blue" alt=""/>
+    <div id="counter">
+          <img src="https://komarev.com/ghpvc/?username=AHMEDsaba3&style=flat-square&color=blue" alt=""/>
+    </div>
 </div>
 </div>
 
