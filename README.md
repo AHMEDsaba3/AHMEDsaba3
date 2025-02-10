@@ -20,6 +20,9 @@
         <a href="https://discord.com/channels/@elsaba3">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+          <a href="ahmedsabaa65@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
 - 👋 Hi, I’m @AHMEDsaba3
 - 👀 I’m interested in programming
