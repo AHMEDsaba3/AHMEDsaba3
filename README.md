@@ -14,7 +14,7 @@
     <a href="https://www.instagram.com/accounts/login/?next=%2FAHMED_SABA3%2F&source=omni_redirect">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-      <a href="https://www.instagram.com/accounts/login/?next=%2FAHMED_SABA3%2F&source=omni_redirect">
+      <a href="https://api.whatsapp.com/send?phone=201068557077">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
 </div>
