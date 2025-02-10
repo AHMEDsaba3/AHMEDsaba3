@@ -17,8 +17,8 @@
       <a href="https://www.threads.net/@ahmed_saba3">
     <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Badge"/>
   </a>
-        <a href="https://discord.com/channels/@elsaba3">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+        <a href="https://linktr.ee/AhmedSaba3?utm_source=linktree_profile_share&ltsid=83060f06-b95d-4c43-9a20-32ffebb7f55c">
+    <img src="https://img.shields.io/badge/Linktr-green?style=for-the-badge&logo=linktr&logoColor=white" alt="Linktr Badge"/>
   </a>
           <a href="ahmedsabaa65@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
