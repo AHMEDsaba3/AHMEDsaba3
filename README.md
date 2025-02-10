@@ -40,7 +40,7 @@
 ### :woman_technologist: About Me :
 
 - 👋 Hi, I’m @AHMEDsaba3
-- 👀 I’m interested in programming
+- 👀 I’m interested in programmin mobile Apps by flutter 
 - 🌱 I’m graduated from faculty of Computer Science
 - 💞️ I’m looking to collaborate on facebook or google
 - 📫 How to reach me >>ahmedsabaa65@gmail.com<<
