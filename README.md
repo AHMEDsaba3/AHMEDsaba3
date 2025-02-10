@@ -5,11 +5,11 @@
   <a href="https://www.linkedin.com/in/ahmed-sabaa-347420247/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.facebook.com/people/Ahmed-Sabaa/pfbid02ic4yhxX2bjqJGsoCXPthqtQsMvgosKFWJgkBopu91i9cJSWURdRNPvwuJbJvPUwol/?mibextid=LQQJ4d">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://x.com/i/flow/login?redirect_after_login=%2FAhmedSabaa8">
-    <img src="https://img.shields.io/badge/''-blue?style=for-the-badge&logo=X&logoColor=black" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
 </div>
 - 👋 Hi, I’m @AHMEDsaba3
