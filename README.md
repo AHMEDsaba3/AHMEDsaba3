@@ -17,6 +17,9 @@
       <a href="https://www.threads.net/@ahmed_saba3">
     <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Badge"/>
   </a>
+        <a href="https://discord.com/channels/@elsaba3">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </div>
 - 👋 Hi, I’m @AHMEDsaba3
 - 👀 I’m interested in programming
