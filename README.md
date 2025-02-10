@@ -26,12 +26,12 @@
           <img src="https://komarev.com/ghpvc/?username=AHMEDsaba3&style=flat-square&color=blue" alt=""/>
     </div>
 </div>
-  <h1>
+<h1>
   hey there
-  <img src="https://i.giphy.com/jTNG3RF6EwbkpD4LZx.webp" width="30px"/>
-  </h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/jTNG3RF6EwbkpD4LZx.webp" width="600" height="300"/>
   </div>
 </div>
 
@@ -69,6 +69,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AHMEDsaba3&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMEDsaba3&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AHMEDsaba3&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 <!---
