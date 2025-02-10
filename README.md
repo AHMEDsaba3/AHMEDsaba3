@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/ahmed-sabaa-347420247/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,8 +22,10 @@
         <a href="https://linktr.ee/AhmedSaba3?utm_source=linktree_profile_share&ltsid=83060f06-b95d-4c43-9a20-32ffebb7f55c">
     <img src="https://img.shields.io/badge/Linktr-green?style=for-the-badge&logo=linktr&logoColor=white" alt="Linktr Badge"/>
   </a>
+    <img src="https://komarev.com/ghpvc/?username=AHMEDsaba3&style=flat-square&color=blue" alt=""/>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=AHMEDsaba3&style=flat-square&color=blue" alt=""/>
+</div>
+
 
 
 - 👋 Hi, I’m @AHMEDsaba3
